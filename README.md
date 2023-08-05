@@ -13,7 +13,7 @@
 </a>
 </p>
 
-The Exam Portal is a web application built using Spring Boot for the backend, Angular for the frontend, MySQL for the database, and deployed on AWS. It provides a user-friendly interface for managing exams, ensuring high performance, scalability, and security. AWS enables easy deployment, scalability, and reliability of the application.
+The Exam Portal is a web application built using Spring Boot for the backend, Angular for the frontend, MySQL for the database. It provides a user-friendly interface for managing exams, ensuring high performance, scalability, and security. AWS enables easy deployment, scalability, and reliability of the application.
 
 ## Requirements
 * Spring Boot as Backend
